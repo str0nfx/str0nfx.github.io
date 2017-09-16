@@ -264,7 +264,7 @@ a:after {
 }
 
 .desc p {
-	color: #2f2f2f;
+	color: #2f2f2f; 
 }
 
 .desc t {
@@ -280,7 +280,9 @@ a:after {
 
 .desc more {
 	color: #95a5a6;
+	padding-top: 70px;
 }
+
 
 
 sm {
